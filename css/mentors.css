@@ -108,7 +108,7 @@
 }
 
 #picture img{
-  height: 40%;
+  max-height: 40%;
   width: auto;
   padding-bottom: 0;
 }
